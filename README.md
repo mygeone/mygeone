@@ -27,20 +27,6 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-14%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 20 Contributions in the Year 2022
- > 
-> 📦 173.6 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 14 Public Repositories 
- > 
-> 🔑 3 Private Repositories  
- > 
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -52,5 +38,4 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 08/01/2022
 <!--END_SECTION:waka-->
