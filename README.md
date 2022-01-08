@@ -25,4 +25,80 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on side projects improving web dev skills
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 20 Contributions in the Year 2022
+ > 
+> 📦 173.6 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 14 Public Repositories 
+ > 
+> 🔑 3 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.38% 
+🌆 Daytime    39 commits     ██████░░░░░░░░░░░░░░░░░░░   24.84% 
+🌃 Evening    59 commits     █████████░░░░░░░░░░░░░░░░   37.58% 
+🌙 Night      38 commits     ██████░░░░░░░░░░░░░░░░░░░   24.2%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       32 commits     █████░░░░░░░░░░░░░░░░░░░░   20.38% 
+Tuesday      26 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.56% 
+Wednesday    21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.38% 
+Thursday     12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.64% 
+Friday       19 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.1% 
+Saturday     33 commits     █████░░░░░░░░░░░░░░░░░░░░   21.02% 
+Sunday       14 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.92%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Santiago
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               6 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+Python                   6 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+PHP                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/mygeone/mygeone/main/charts/bar_graph.png) 
+
+
+ Last Updated on 08/01/2022
 <!--END_SECTION:waka-->
