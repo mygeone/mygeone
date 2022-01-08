@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🌱 Teaching Assitant in networking courses
 - 👧 Programming Teacher in foundation motivating women in STEM
 - 👩‍💻 I’m currently learning MERN stack
-- 🔭 I’m currently working on side projects improving web dev skills
+- 🔭 Currently working on side projects improving web dev skills
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-14%20mins-blue)
