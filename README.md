@@ -25,15 +25,14 @@ Here are some ideas to get you started:
 - 🔭 Currently working on side projects improving web dev skills
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20mins-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: America/Santiago
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   14 mins             █████████████████████████   99.81% 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19%
 
 ```
 
