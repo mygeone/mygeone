@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: America/Santiago
 
 💬 Programming Languages: 
-JavaScript               1 hr 3 mins         █████████████████████████   100.0%
+JavaScript               1 hr 45 mins        █████████████████████████   100.0%
 
 ```
 
